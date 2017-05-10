@@ -1,0 +1,6 @@
+C:\Users\jeremy.lincoln\Documents\C#\PluralSight\CSharp6FromScratch\VariableDemo\VariableDemo\bin\Debug\VariableDemo.exe.config
+C:\Users\jeremy.lincoln\Documents\C#\PluralSight\CSharp6FromScratch\VariableDemo\VariableDemo\bin\Debug\VariableDemo.exe
+C:\Users\jeremy.lincoln\Documents\C#\PluralSight\CSharp6FromScratch\VariableDemo\VariableDemo\bin\Debug\VariableDemo.pdb
+C:\Users\jeremy.lincoln\Documents\C#\PluralSight\CSharp6FromScratch\VariableDemo\VariableDemo\obj\Debug\VariableDemo.csprojResolveAssemblyReference.cache
+C:\Users\jeremy.lincoln\Documents\C#\PluralSight\CSharp6FromScratch\VariableDemo\VariableDemo\obj\Debug\VariableDemo.exe
+C:\Users\jeremy.lincoln\Documents\C#\PluralSight\CSharp6FromScratch\VariableDemo\VariableDemo\obj\Debug\VariableDemo.pdb

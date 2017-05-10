@@ -1,0 +1,6 @@
+C:\Users\jeremy.lincoln\Documents\C#\PluralSight\CSharp6FromScratch\ifDemo\ifDemo\bin\Debug\ifDemo.exe.config
+C:\Users\jeremy.lincoln\Documents\C#\PluralSight\CSharp6FromScratch\ifDemo\ifDemo\bin\Debug\ifDemo.exe
+C:\Users\jeremy.lincoln\Documents\C#\PluralSight\CSharp6FromScratch\ifDemo\ifDemo\bin\Debug\ifDemo.pdb
+C:\Users\jeremy.lincoln\Documents\C#\PluralSight\CSharp6FromScratch\ifDemo\ifDemo\obj\Debug\ifDemo.csprojResolveAssemblyReference.cache
+C:\Users\jeremy.lincoln\Documents\C#\PluralSight\CSharp6FromScratch\ifDemo\ifDemo\obj\Debug\ifDemo.exe
+C:\Users\jeremy.lincoln\Documents\C#\PluralSight\CSharp6FromScratch\ifDemo\ifDemo\obj\Debug\ifDemo.pdb

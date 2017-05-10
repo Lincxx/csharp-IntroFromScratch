@@ -1,0 +1,1 @@
+This is an intro to the C# lang. This git will hold all the examples from a pluralsight course called C# 6 from scratch
