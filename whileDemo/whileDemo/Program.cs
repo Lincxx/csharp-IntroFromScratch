@@ -10,6 +10,20 @@ namespace whileDemo
     {
         static void Main(string[] args)
         {
+            int myLitteHorse = 0;
+            //while (myLitteHorse < 10)
+            //{
+            //    Console.WriteLine($"myLittleHorses = {myLitteHorse}");
+            //    myLitteHorse++;
+            //}
+
+            do
+            {
+                Console.WriteLine($"myLittleHorses = {myLitteHorse}");
+                myLitteHorse++;
+            } while (myLitteHorse < 0);
+
+
         }
     }
 }
